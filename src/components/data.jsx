@@ -1,32 +1,32 @@
 export const pictures = [
   {
     id: "text1",
-    src: "/Assets/images/Vals-Thorens.png",
+    src: "./ValsThorens.png",
     alt: "Val Thorens",
   },
   {
     id: "text2",
-    src: "/Assets/images/Restaurant-Terrace.png",
+    src: "./RestaurantTerrace.png",
     alt: "Restaurant Terrace",
   },
   {
     id: "text3",
-    src: "/Assets/images/An-outdoor-cafe.png",
+    src: "./AnOutdoorCafe.png",
     alt: "An outdoor cafe",
   },
   {
     id: "text4",
-    src: "/Assets/images/A-very-long-bridge-over-the-forest.png",
+    src: "./AVeryLongBridgeOverTheForest.png",
     alt: "A very long bridge over the forest...",
   },
   {
     id: "text5",
-    src: "/Assets/images/Tunnel-with-the-morning-light.png",
+    src: "./TunnelWithTheMorningLight.png",
     alt: "Tunnel with the morning light",
   },
   {
     id: "text6",
-    src: "/Assets/images/Mountain-house.png",
+    src: "./MountainHouse.png",
     alt: "Mountain House",
   },
 ];

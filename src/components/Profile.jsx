@@ -15,7 +15,7 @@ export default function Profile({ setPosts}) {
     () => localStorage.getItem("profileImage") || null
   );
 
-  const [image, setImage] = useState("./Assets/images/Bessie-Coleman.png");
+  const [image, setImage] = useState("./BessieColeman.png");
   function handleOpenModal() {
     setIsOpenPost(true);
   }
