@@ -3,7 +3,7 @@ export default function Header() {
   return (
    <div>
 		<header>
-      <img src="./Assets/icons/Spots-Logo.svg" />
+      <img src="./icons/Spots-Logo.svg" />
     </header>
 	 </div>
   );

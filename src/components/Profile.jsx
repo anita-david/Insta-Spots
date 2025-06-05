@@ -68,7 +68,7 @@ export default function Profile({ setPosts}) {
           <p className="profileEdit" onClick={handleOpenProfile}>
             <img
               className="EditIcon"
-              src={"./Assets/icons/Edit-Profile-Icon-Light.svg"}
+              src={"./icons/Edit-Profile-Icon-Light.svg"}
               alt="Edit Image Icon"
             />
             Edit Profile
@@ -77,7 +77,7 @@ export default function Profile({ setPosts}) {
         <button onClick={handleOpenModal} className="profileBtn">
           <img
             className="newPostIcon"
-            src="./Assets/icons/New-Post-Icon.svg"
+            src="./icons/New-Post-Icon.svg"
             alt="New Post Icon"
           />
           New Post
